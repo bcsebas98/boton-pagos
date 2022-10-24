@@ -1,0 +1,2 @@
+# Validar tarjeta de pago
+** TARJETA DE PAGO VALIDADA CORRECTAMENTE.
